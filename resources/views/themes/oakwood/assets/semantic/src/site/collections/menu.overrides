@@ -1,0 +1,16 @@
+/*******************************
+         Site Overrides
+*******************************/
+.ui.menu .item{
+	color: #fff;
+}
+.ui.menu .item:hover{
+	background: transparent;
+}
+.ui.menu .item:before{
+	display: none;
+}
+.ui.menu{
+	box-shadow: none;
+	border: none;
+}

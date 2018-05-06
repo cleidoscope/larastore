@@ -1,0 +1,11 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@blue              : #0288D1;
+@headerFont		   : 'Poppins', sans-serif;
+@pageFont		   : 'Poppins', sans-serif;
+@fontSmoothing     : antialiased;
+@importGoogleFonts : false;
+@emSize      : 14px;
+@fontSize    : 14px;

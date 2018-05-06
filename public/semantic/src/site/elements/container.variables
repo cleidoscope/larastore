@@ -1,0 +1,5 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+@mobileGutter: 25px;
+@tabletGutter: 30px;

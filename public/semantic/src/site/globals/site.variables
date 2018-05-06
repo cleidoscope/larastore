@@ -1,0 +1,12 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@blue              : #01579B;
+@headerFont		   : 'Roboto', sans-serif;
+@pageFont		   : 'Roboto', sans-serif;
+@fontSmoothing     : antialiased;
+@emSize      : 15px;
+@fontSize    : 15px;
+@importGoogleFonts : false;
+@primaryColor: #01579B;

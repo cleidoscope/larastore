@@ -1,0 +1,37 @@
+/*******************************
+         Site Overrides
+*******************************/
+.ui.orange.buttons .button,
+.ui.orange.button {
+  background-color: #E64A19;
+  color: @primaryTextColor;
+}
+.ui.orange.button {
+  box-shadow: @coloredBoxShadow;
+}
+.ui.orange.buttons .button:hover,
+.ui.orange.button:hover {
+  background-color: #D84315;
+  color: @primaryTextColor;
+  text-shadow: @primaryTextShadow;
+}
+.ui.orange.buttons .button:focus,
+.ui.orange.button:focus {
+  background-color: #cf4216;
+  color: @primaryTextColor;
+  text-shadow: @primaryTextShadow;
+}
+.ui.orange.buttons .button:active,
+.ui.orange.button:active {
+  background-color: #BF360C;
+  color: @primaryTextColor;
+  text-shadow: @primaryTextShadow;
+}
+.ui.orange.buttons .active.button,
+.ui.orange.buttons .active.button:active,
+.ui.orange.active.button,
+.ui.orange.button .active.button:active {
+  background-color: #BF360C;
+  color: @primaryTextColor;
+  text-shadow: @primaryTextShadow;
+}
